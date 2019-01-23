@@ -20,5 +20,8 @@
       "name": "create-react-app/lab",
       "path": "create-react-app/lab"
     }
-  ]
+  ],
+  "settings": {
+    "editor.tabSize": 2
+  }
 }
