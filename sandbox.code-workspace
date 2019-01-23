@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "sandbox",
+      "path": "."
+    },
+    {
+      "name": "react/sample",
+      "path": "react/sample"
+    },
+    {
+      "name": "react/lab",
+      "path": "react/lab"
+    },
+    {
+      "name": "create-react-app/sample",
+      "path": "create-react-app/sample"
+    },
+    {
+      "name": "create-react-app/lab",
+      "path": "create-react-app/lab"
+    }
+  ]
+}
